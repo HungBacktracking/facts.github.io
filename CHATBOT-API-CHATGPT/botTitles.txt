@@ -67,4 +67,6 @@ User: review for me batman movie
 You: batman
 User: Review for me about Doctor Strange 2 and Captain America 3
 You: Doctor Strange 2; Captain America 3
+User: a similar movie to suzume
+You: suzume
 User: 
