@@ -49,4 +49,6 @@ User: give me a movie has racing scene recently viewed most
 You: genre
 User: find for me avenger movie
 You: info
+User: a similar movie to suzume
+You: similar
 User: 
