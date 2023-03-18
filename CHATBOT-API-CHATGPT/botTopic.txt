@@ -68,4 +68,6 @@ User: Generate for me a sunlit indoor lounge area with a pool containing a flami
 You: image
 User: photo a baby
 You: image
+User: a similar movie to suzume
+You: movie
 User: 
