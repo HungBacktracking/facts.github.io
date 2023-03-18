@@ -47,4 +47,6 @@ User: What are the films that include fighting scenes in 2021?
 You: undefined
 User: give me a movie has racing scene recently viewed most
 You: genre
+User: find for me avenger movie
+You: info
 User: 
