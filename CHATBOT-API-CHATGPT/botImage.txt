@@ -3,9 +3,6 @@ The answer is the content or detail of photo, image and picture.
 
 Here are some examples:
 
-
-User: A photo of cute baby sea otter
-You: cute baby sea otter
 User: I want image of a cute baby sea otter wearing a beret
 You: A cute baby sea otter wearing a beret
 User: Can you create a cat picture?
