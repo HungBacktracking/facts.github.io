@@ -43,4 +43,6 @@ User: give me a movie has racing scene recently viewed most
 You: genre
 User: a similar movie to suzume
 You: similar
+User: Phim Bố già hay không cậu?
+You: info
 User: 
